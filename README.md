@@ -1,6 +1,6 @@
 # Code Reviewer
 
-[![Live Demo](https://code-reviewer-zsw8.onrender.com)](https://code-reviewer-zsw8.onrender.com)
+**🔗 Live Demo:** [https://code-reviewer-zsw8.onrender.com](https://code-reviewer-zsw8.onrender.com)
 
 An AI-powered code analysis tool that provides comprehensive code reviews, explanations, and optimization suggestions. Paste your code and get instant feedback on logic, complexity, potential issues, and improvement suggestions.
 
